@@ -23,7 +23,7 @@ nerv = Theme(
         "surface-lighten-1": "#0a0500",  # Slightly raised surfaces
         "surface-lighten-2": "#1a0a00",  # Panels, headers, footers
         # Text colors
-        "text": "#ffaa66",  # Lighter orange for readability
+        "text": "#ffdfdf",
         "text-muted": "#cc7744",  # Muted orange for less important text
         "text-disabled": "#663300",
         # Primary variations

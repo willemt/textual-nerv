@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "textual-nerv"
-version = "0.1.0"
+version = "0.1.1"
 description = "NERV theme for Textual applications - Evangelion-inspired aesthetic"
 readme = "README.md"
 license = "MIT"
